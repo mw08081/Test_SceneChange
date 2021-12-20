@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{93360F11-88DC-BD27-D34D-6D68ABD9F885}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/cs/SceneController.cs">
+    <Files>
+      <File FileName="Assets/cs/SceneController.cs" Line="33" Column="6" />
+      <File FileName="Assets/cs/LoadingScene.cs" Line="61" Column="1" />
+      <File FileName="Assets/cs/BaseScene.cs" Line="27" Column="1" />
+      <File FileName="Assets/cs/InGameScene.cs" Line="7" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SceneChangePrac" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="cs" expanded="True">
+                <Node name="SceneController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="39cccaa4-47fd-4189-91cf-3f93c893f892" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
